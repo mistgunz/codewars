@@ -30,6 +30,6 @@ int main() {
  //printf("%d\n" ,pyramidHeight(4));
  //printf("%d\n" ,pyramidHeight(5));
  //printf("%d\n" ,pyramidHeight(13));
- printf("%d\n" ,pyramidHeight(10));
+ printf("%d\n" ,pyramidHeight(5));
   return 0;
 }
